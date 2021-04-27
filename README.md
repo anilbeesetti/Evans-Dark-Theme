@@ -4,6 +4,8 @@
 
 Dark is the new Light...
 
+Download this Theme from VScode marketplace at https://marketplace.visualstudio.com/items?itemName=AnilBeesetti.evans-dark-theme
+
 ## ScreenShots
 
 ### Default Theme
