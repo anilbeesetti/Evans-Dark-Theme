@@ -7,6 +7,10 @@
         "name": "Anil Beesetti",
         "email": "anilbeesetti10@gmail.com"
     },
+    "repository": {
+        "type": "github",
+        "url": "https://github.com/attitudeanil/Evans-Dark-Theme"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.22.0"
