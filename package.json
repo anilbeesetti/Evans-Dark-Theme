@@ -1,0 +1,26 @@
+{
+    "name": "evans-dark-theme",
+    "displayName": "Evans Dark Theme",
+    "description": "Dark is the new light.",
+    "publisher": "AnilBeesetti",
+    "author": {
+        "name": "Anil Beesetti",
+        "email": "anilbeesetti10@gmail.com"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Evans Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Evans Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
