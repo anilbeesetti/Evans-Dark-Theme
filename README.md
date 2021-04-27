@@ -2,15 +2,16 @@
 
 ## A new stunning dark theme for VScode
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Dark is the new Light...
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-- Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-- Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## ScreenShots
 
-### For more information
+### Default Theme
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Screenshot_20210427_112456](https://user-images.githubusercontent.com/66936649/116194628-b7ed4500-a74e-11eb-9d6d-98859c65861f.png)
+![Screenshot_20210427_112512](https://user-images.githubusercontent.com/66936649/116194638-bb80cc00-a74e-11eb-85c5-5dad3f6d7b7a.png)
 
-**Enjoy!**
+### Terminal
+
+![Screenshot_20210427_112350](https://user-images.githubusercontent.com/66936649/116194298-49a88280-a74e-11eb-90d2-fd4e5953e90e.png)
+![Screenshot_20210427_112543](https://user-images.githubusercontent.com/66936649/116194643-bd4a8f80-a74e-11eb-8f66-2d87b985bfca.png)

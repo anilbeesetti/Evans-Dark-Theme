@@ -2,11 +2,6 @@
 	"name": "evans-dark-theme",
 	"displayName": "Evans Dark Theme",
 	"type": "dark",
-	"publisher": "AnilBeesetti",
-	"author": {
-	"name": "Anil Beesetti",
-	"email": "anilbeesetti10@gmail.com"
-	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 	  "enumMember": {
