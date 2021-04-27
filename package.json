@@ -12,6 +12,17 @@
         "url": "https://github.com/attitudeanil/Evans-Dark-Theme"
     },
     "version": "0.0.1",
+    "keywords": [
+        "dark",
+        "theme",
+        "dark theme",
+        "evans",
+        "evans dark theme",
+        "wolf",
+        "wolf theme",
+        "green",
+        "green theme"
+    ],
     "engines": {
         "vscode": "^1.22.0"
     },
