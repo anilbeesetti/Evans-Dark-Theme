@@ -21,7 +21,9 @@
         "wolf",
         "wolf theme",
         "green",
-        "green theme"
+        "green theme",
+        "edna",
+        "edna theme"
     ],
     "engines": {
         "vscode": "^1.22.0"

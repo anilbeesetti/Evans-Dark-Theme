@@ -1,10 +1,17 @@
-# Evans Dark Theme
+# Evans Dark Theme For VScode
+
+[![Version](https://vsmarketplacebadge.apphb.com/version/wesbos.theme-cobalt2.svg)](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
 
 ## A new stunning dark theme for VScode
 
 Dark is the new Light...
 
-Download this Theme from VScode marketplace at https://marketplace.visualstudio.com/items?itemName=AnilBeesetti.evans-dark-theme
+# Installation
+
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Evans Dark Theme` - find the one by **AnilBeesetti**
+3. Click **Install** to install it.
+4. Code > Preferences > Color Theme > **Evans Dark Theme**
 
 ## ScreenShots
 
