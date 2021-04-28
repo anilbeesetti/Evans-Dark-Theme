@@ -1,6 +1,6 @@
 # Evans Dark Theme For VScode
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/wesbos.theme-cobalt2.svg)](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
+[![Version](https://vsmarketplacebadge.apphb.com/version/anilbeesetti.evans-dark-theme.svg)](https://marketplace.visualstudio.com/items?itemName=anilbeesetti.evans-dark-theme)
 
 ## A new stunning dark theme for VScode
 
