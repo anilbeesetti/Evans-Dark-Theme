@@ -13,7 +13,7 @@ Dark is the new Light...
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme > **Evans Dark Theme**
 
-## ScreenShots
+## Preview
 
 ### Default Theme
 
