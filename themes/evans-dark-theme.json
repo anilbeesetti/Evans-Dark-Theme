@@ -1914,7 +1914,7 @@
 	  "input.placeholderForeground": "#a6a6a6",
 	  "textLink.foreground": "#008e88",
 	  "editor.background": "#1c262c",
-	  "editor.foreground": "#ffffff",
+	  "editor.foreground": "#dbdbdb",
 	  "editorLineNumber.foreground": "#858585",
 	  "editorCursor.foreground": "#aeafad",
 	  "editorCursor.background": "#000000",

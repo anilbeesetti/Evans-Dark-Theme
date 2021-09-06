@@ -11,7 +11,7 @@
         "type": "github",
         "url": "https://github.com/attitudeanil/Evans-Dark-Theme"
     },
-    "version": "0.1.0",
+    "version": "1.0.0",
     "keywords": [
         "dark",
         "theme",
@@ -23,7 +23,11 @@
         "green",
         "green theme",
         "edna",
-        "edna theme"
+        "edna theme",
+        "one dark",
+        "monkai",
+        "cobalt",
+        "atom"
     ],
     "engines": {
         "vscode": "^1.22.0"
@@ -37,7 +41,7 @@
             {
                 "label": "Evans Dark Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Evans Dark Theme-color-theme.json"
+                "path": "./themes/evans-dark-theme.json"
             }
         ]
     }
